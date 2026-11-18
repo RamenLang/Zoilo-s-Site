@@ -1,0 +1,7 @@
+{
+    "php.validate.enable": true,
+    "files.associations": { "*.php": "php" },
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "files.eol": "\n"
+}
